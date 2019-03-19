@@ -17,7 +17,7 @@ body {
 /** Header Info **/
 .header{
 font-family: 'Roboto', sans-serif;
-size: 100px
+height: 44px;
 font-weight:200;
 color: #ACEBE7;
 padding-top: 15px;
@@ -119,7 +119,7 @@ font-weight:lighter;
 font-size: 12px;
 text-align: center;
 display: inline-block;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-left: 5px;
 color: #383838;}
 
@@ -129,7 +129,7 @@ font-size: 12px;
 float: right;
 display: inline-block;
 padding-left: 25px;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 15px;
 color: #383838;}
 
@@ -140,7 +140,7 @@ font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 65px;
 color: #383838;}
 
@@ -149,7 +149,7 @@ font-weight:lighter;
 font-size: 12px;
 text-align: center;
 display: inline-block;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-left: 25px;
 color: #383838;}
 
@@ -158,7 +158,7 @@ font-weight:lighter;
 font-size: 12px;
 float: right;
 display: inline-block;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 15px;
 padding-left: 65px
 color: #383838;}
@@ -171,7 +171,7 @@ font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 50px;
 color: #383838;}
 
@@ -180,7 +180,7 @@ font-weight:lighter;
 font-size: 12px;
 text-align: center;
 display: inline-block;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-left: 25px;
 color: #383838;}
 
@@ -190,7 +190,7 @@ font-size: 12px;
 float: right;
 display: inline-block;
 padding-left: 15px;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 15px;
 color: #383838;}
 
@@ -231,7 +231,7 @@ font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 65px;
 color: #383838;}
 
@@ -240,7 +240,7 @@ font-weight:lighter;
 font-size: 12px;
 text-align: center;
 display: inline-block;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-left: 25px;
 color: #383838;}
 
@@ -249,7 +249,7 @@ font-weight:lighter;
 font-size: 12px;
 float: right;
 display: inline-block;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 15px;
 color: #383838;}
 
@@ -261,7 +261,7 @@ font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 50px;
 color: #383838;}
 
@@ -270,7 +270,7 @@ font-weight:lighter;
 font-size: 12px;
 text-align: center;
 display: inline-block;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-left: 10px;
 color: #383838;}
 
@@ -280,7 +280,7 @@ font-size: 12px;
 float: right;
 display: inline-block;
 padding-left: 15px;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 15px;
 color: #383838;}
 
@@ -350,7 +350,7 @@ font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 55px;
 color: #383838;}
 
@@ -359,7 +359,7 @@ font-weight:lighter;
 font-size: 12px;
 float: center;
 display: inline-block;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 50px
 color: #383838;}
 
@@ -369,6 +369,6 @@ font-size: 12px;
 float: right;
 display: inline-block;
 padding-left: 0px;
-padding-bottom: 10px;
+padding-bottom: 15px;
 padding-right: 15px;
 color: #383838;}
