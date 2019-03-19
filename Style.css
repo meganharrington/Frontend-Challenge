@@ -17,7 +17,7 @@ body {
 /** Header Info **/
 .header{
 font-family: 'Roboto', sans-serif;
-size: 100px;
+size: 100px
 font-weight:200;
 color: #ACEBE7;
 padding-top: 15px;
@@ -62,42 +62,39 @@ padding-bottom: 15px;}
   padding-right:15px;
   padding-top: 15px;}
 
-.iconfont1 {font-family: 'Roboto', sans-serif;
+.iconfont1 {font-family: 'Roboto Mono', sans-serif;
     color: #ffffff;
     font-size: 12px;
-    font-weight: lighter;
     display: inline-block;
     float: left;
     padding-top: 5px;
     padding-bottom: 15px;
-    padding-left: 17px;}
+    padding-left: 15px;}
 
-.iconfont2 {font-family: 'Roboto', sans-serif;
+.iconfont2 {font-family: 'Roboto Mono', sans-serif;
     color: #ffffff;
     font-size: 12px;
-    font-weight: normal;
     display: inline-block;
     float: center;
     padding-top: 5px;
     padding-bottom: 15px;
-    padding-left: 120px;}
+    padding-left: 105px;}
 
-.iconfont3 {font-family: 'Roboto', sans-serif;
+.iconfont3 {font-family: 'Roboto Mono', sans-serif;
     color: #ffffff;
     font-size: 12px;
-    font-weight: lighter;
     display: inline-block;
     float: right;
     padding-top: 5px;
     padding-bottom: 15px;
-    padding-right: 17px;}
+    padding-right: 15px;}
 
     /** Timetable Section**/
 
 .content {background-color: #ffffff;
 border:1px solid #ACEBE7;}
 
-.heading {font-family: 'Roboto', sans-serif;
+.heading {font-family: 'Roboto Mono', sans-serif;
 font-size: 16px;
 font-weight: bold;
 text-align: center;
@@ -107,47 +104,47 @@ color: #383838;}
 
 /** Eastbond Section **/
 
-.line1 {font-family: 'Roboto', sans-serif;
+.line1 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
 padding-bottom: 10px;
-padding-right: 70px;
+padding-right: 60px;
 color: #383838;}
 
-.destination1 {font-family: 'Roboto', sans-serif;
+.destination1 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: center;
 display: inline-block;
 padding-bottom: 10px;
-padding-left: 15px;
+padding-left: 5px;
 color: #383838;}
 
-.time1 {font-family: 'Roboto', sans-serif;
+.time1 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 float: right;
 display: inline-block;
-padding-left: 65px;
+padding-left: 25px;
 padding-bottom: 10px;
 padding-right: 15px;
 color: #383838;}
 
 
-.line2 {font-family: 'Roboto', sans-serif;
+.line2 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
 padding-bottom: 10px;
-padding-right: 75px;
+padding-right: 65px;
 color: #383838;}
 
-.destination2 {font-family: 'Roboto', sans-serif;
+.destination2 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: center;
@@ -156,7 +153,7 @@ padding-bottom: 10px;
 padding-left: 25px;
 color: #383838;}
 
-.time2 {font-family: 'Roboto', sans-serif;
+.time2 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 float: right;
@@ -168,17 +165,17 @@ color: #383838;}
 
 /** Northbond Section **/
 
-.line3 {font-family: 'Roboto', sans-serif;
+.line3 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
 padding-bottom: 10px;
-padding-right: 70px;
+padding-right: 50px;
 color: #383838;}
 
-.destination3 {font-family: 'Roboto', sans-serif;
+.destination3 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: center;
@@ -187,7 +184,7 @@ padding-bottom: 10px;
 padding-left: 25px;
 color: #383838;}
 
-.time3 {font-family: 'Roboto', sans-serif;
+.time3 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 float: right;
@@ -199,17 +196,17 @@ color: #383838;}
 
 /** Southbond Section **/
 
-.line4 {font-family: 'Roboto', sans-serif;
+.line4 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
 padding-bottom: 10px;
-padding-right: 70px;
+padding-right: 45px;
 color: #383838;}
 
-.destination4 {font-family: 'Roboto', sans-serif;
+.destination4 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: center;
@@ -218,7 +215,7 @@ padding-bottom: 10px;
 padding-left: 10px;
 color: #383838;}
 
-.time4 {font-family: 'Roboto', sans-serif;
+.time4 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 float: right;
@@ -228,17 +225,17 @@ padding-bottom: 10px;
 padding-right: 15px;
 color: #383838;}
 
-.line5 {font-family: 'Roboto', sans-serif;
+.line5 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
 padding-bottom: 10px;
-padding-right: 75px;
+padding-right: 65px;
 color: #383838;}
 
-.destination5 {font-family: 'Roboto', sans-serif;
+.destination5 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: center;
@@ -247,7 +244,7 @@ padding-bottom: 10px;
 padding-left: 25px;
 color: #383838;}
 
-.time5 {font-family: 'Roboto', sans-serif;
+.time5 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 float: right;
@@ -258,17 +255,17 @@ color: #383838;}
 
 /** Reroute Section **/
 
-.line6 {font-family: 'Roboto', sans-serif;
+.line6 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
 padding-bottom: 10px;
-padding-right: 70px;
+padding-right: 50px;
 color: #383838;}
 
-.destination6 {font-family: 'Roboto', sans-serif;
+.destination6 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: center;
@@ -277,7 +274,7 @@ padding-bottom: 10px;
 padding-left: 10px;
 color: #383838;}
 
-.time6 {font-family: 'Roboto', sans-serif;
+.time6 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 float: right;
@@ -289,75 +286,17 @@ color: #383838;}
 
 /** Out of Service Section **/
 
-.line7 {font-family: 'Roboto', sans-serif;
+.line7 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: left;
 display: inline-block;
 padding-left: 15px;
 padding-bottom: 10px;
-padding-right: 90px;
+padding-right: 80px;
 color: #383838;}
 
-.destination7 {font-family: 'Roboto', sans-serif;
-font-weight:lighter;
-font-size: 12px;
-text-align: center;
-display: inline-block;
-padding-bottom: 10px;
-padding-left: 15px;
-color: #383838;}
-
-.time7 {font-family: 'Roboto', sans-serif;
-font-weight:lighter;
-font-size: 12px;
-float: right;
-display: inline-block;
-padding-left: 15px;
-padding-bottom: 10px;
-padding-right: 15px;
-color: #383838;}
-
-.line8 {font-family: 'Roboto', sans-serif;
-font-weight:lighter;
-font-size: 12px;
-text-align: left;
-display: inline-block;
-padding-left: 15px;
-padding-bottom: 10px;
-padding-right: 90px;
-color: #383838;}
-
-.destination8 {font-family: 'Roboto', sans-serif;
-font-weight:lighter;
-font-size: 12px;
-text-align: center;
-display: inline-block;
-padding-bottom: 10px;
-padding-left: 25px;
-color: #383838;}
-
-.time8 {font-family: 'Roboto', sans-serif;
-font-weight:lighter;
-font-size: 12px;
-float: right;
-display: inline-block;
-padding-left: 20px;
-padding-bottom: 10px;
-padding-right: 15px;
-color: #383838;}
-
-.line9 {font-family: 'Roboto', sans-serif;
-font-weight:lighter;
-font-size: 12px;
-text-align: left;
-display: inline-block;
-padding-left: 15px;
-padding-bottom: 10px;
-padding-right: 70px;
-color: #383838;}
-
-.destination9 {font-family: 'Roboto', sans-serif;
+.destination7 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 text-align: center;
@@ -366,12 +305,70 @@ padding-bottom: 10px;
 padding-left: 10px;
 color: #383838;}
 
-.time9 {font-family: 'Roboto', sans-serif;
+.time7 {font-family: 'Roboto Mono', sans-serif;
 font-weight:lighter;
 font-size: 12px;
 float: right;
 display: inline-block;
 padding-left: 15px;
+padding-bottom: 10px;
+padding-right: 15px;
+color: #383838;}
+
+.line8 {font-family: 'Roboto Mono', sans-serif;
+font-weight:lighter;
+font-size: 12px;
+text-align: left;
+display: inline-block;
+padding-left: 15px;
+padding-bottom: 10px;
+padding-right: 95px;
+color: #383838;}
+
+.destination8 {font-family: 'Roboto Mono', sans-serif;
+font-weight:lighter;
+font-size: 12px;
+text-align: center;
+display: inline-block;
+padding-bottom: 10px;
+padding-left: 10px;
+color: #383838;}
+
+.time8 {font-family: 'Roboto Mono', sans-serif;
+font-weight:lighter;
+font-size: 12px;
+float: right;
+display: inline-block;
+padding-left: 15px;
+padding-bottom: 10px;
+padding-right: 15px;
+color: #383838;}
+
+.line9 {font-family: 'Roboto Mono', sans-serif;
+font-weight:lighter;
+font-size: 12px;
+text-align: left;
+display: inline-block;
+padding-left: 15px;
+padding-bottom: 10px;
+padding-right: 55px;
+color: #383838;}
+
+.destination9 {font-family: 'Roboto Mono', sans-serif;
+font-weight:lighter;
+font-size: 12px;
+float: center;
+display: inline-block;
+padding-bottom: 10px;
+padding-right: 50px
+color: #383838;}
+
+.time9 {font-family: 'Roboto Mono', sans-serif;
+font-weight:lighter;
+font-size: 12px;
+float: right;
+display: inline-block;
+padding-left: 0px;
 padding-bottom: 10px;
 padding-right: 15px;
 color: #383838;}
